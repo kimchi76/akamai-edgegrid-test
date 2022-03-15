@@ -1,1 +1,1 @@
-# seungho-test
+# akamai-edgegrid-test
